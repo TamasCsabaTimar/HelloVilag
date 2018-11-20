@@ -16,6 +16,7 @@ public class HelloVilag {
      */
     public static void main(String[] args) {
         // Írassa ki a "Helló Világ!" szöveget a képernyőre!
+        System.out.println("Helló Világ!");
     }
     
 }
